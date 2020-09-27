@@ -17,7 +17,7 @@ Early detection and faster correction of defects that helps provide the best ser
 
 DevOps Tools :
 
-
+![image](https://user-images.githubusercontent.com/32206611/94373935-ab453780-0100-11eb-86c5-5eb52f3bfe30.png)
 
 Typical DevOps Skills 
 
