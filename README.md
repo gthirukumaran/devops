@@ -25,5 +25,5 @@ Early detection and faster correction of defects that helps provide the best ser
 
 
 
-![image](https://user-images.githubusercontent.com/32206611/94373820-d5e2c080-00ff-11eb-914c-8d960dbc56b6.png)
+
 
